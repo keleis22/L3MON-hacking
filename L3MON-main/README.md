@@ -1,14 +1,14 @@
-# Deleted by owner it may not work, Get Updates on <a href="[https://t.me/efxtv](https://spy24.io/l3mon-rat/)">SPY24 (only for education)</a>.
+# Deleted by owner it may not work, Get Updates on <a href="https://spy24.io/l3mon-rat/">SPY24 (only for education)</a>.
 <p align="center">
 A cloud-based remote Android management suite, powered by NodeJS 
 </p>
-<p> We as <a href="https://www.youtube.com/c/EFXTVE">EFX Tv</a> do not pressurize the Lemon tool in any way. Our moral obligation is to send all types of rights and donations directly to the original crater. We sincerely thank you for allowing us to upload this tool to our GitHub. We have enabled Lemon to support termux with a few minor changes.</p>
+<p> We as <a href="https://www.youtube.com/@spy24io">SPY24</a> do not pressurize the Lemon tool in any way. Our moral obligation is to send all types of rights and donations directly to the original crater. We sincerely thank you for allowing us to upload this tool to our GitHub. We have enabled Lemon to support termux with a few minor changes.</p>
 
 <p>Now users no longer need to sign the lemon payload using Apk Editor. If you are a Termux user, you will be able to easily build the payload of Lemon with the help of this repository, as well as use it in Kali Linux and Ubuntu without any errors. If you are a Kali or Ubuntu user, you need to have Java8 Installed on your machine or follow the rootless installation.</p>
 
 <p>The only way to help us is to visit our YouTube channel and subscribe to our channel, leave your comments on our videos, and follow us on GitHub. Looking forward to your cooperation.</p>
 
-## Similar tool with modification supported by EFX Tv alongside L3MON <a href="https://github.com/efxtv/EMSF">EMSF Tool by EFX Tv</a>
+## Similar tool with modification supported by EFX Tv alongside L3MON 
 - L3MON 
 - HaxRAT
 - LizRAT
